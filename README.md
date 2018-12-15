@@ -1,0 +1,1 @@
+NamedInstance.DependencyInject.NetCore
